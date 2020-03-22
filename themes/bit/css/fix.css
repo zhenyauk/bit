@@ -1,0 +1,5 @@
+main > section.feedback > div > svg{	
+	position: absolute;
+    right: 10px;
+    top: 255px;
+}

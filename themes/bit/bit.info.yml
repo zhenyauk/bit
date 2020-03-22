@@ -1,0 +1,27 @@
+name: Bit
+type: theme
+description: Theme for bitPayer site
+core: 8.x
+
+regions:
+  header: Header
+  top_btns: Верхние кнопки
+  front_page: Контент главной страницы
+  feedbacks: Отзывы
+  payment1: Payment Methods
+  top: Top
+  page_title: Page Title
+  page_span_title: Page SPAN Title
+  baner: Baner
+  page_top: Page Top
+  content_block: Content Block
+  content: Content
+  catalog_block: catalog block
+  catalog_content: catalog content
+  page_bottom: Page Bottom
+  sidebar_first: Sidebar Frist
+  pre_footer: Pre Footer
+  footer: Footer
+  footer_mnu_1: Footer Menu 1
+  after_footer: After Footer
+
